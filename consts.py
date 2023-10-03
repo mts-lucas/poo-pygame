@@ -20,3 +20,5 @@ PIPE_SPEED = 4
 
 # color
 BROWN = (163, 128, 104)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
