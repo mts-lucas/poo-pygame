@@ -2,7 +2,7 @@
 
 # tamanho da tela
 SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 600\
+SCREEN_HEIGHT = 600
 
 # titulo
 TITLE = 'Flappy Bird'
@@ -15,7 +15,7 @@ GRAVITY = 0.25
 FLAP_STRENGTH = 7
 
 # conf pipe
-PIPE_GAP = 200
+PIPE_GAP = 150
 PIPE_SPEED = 4
 
 # color
